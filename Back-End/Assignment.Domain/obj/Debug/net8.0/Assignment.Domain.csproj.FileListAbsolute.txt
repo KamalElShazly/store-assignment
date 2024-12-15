@@ -1,0 +1,11 @@
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/bin/Debug/net8.0/Assignment.Domain.deps.json
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/bin/Debug/net8.0/Assignment.Domain.dll
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/bin/Debug/net8.0/Assignment.Domain.pdb
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/Assignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/Assignment.Domain.AssemblyInfoInputs.cache
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/Assignment.Domain.AssemblyInfo.cs
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/Assignment.Domain.csproj.CoreCompileInputs.cache
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/Assignment.Domain.dll
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/refint/Assignment.Domain.dll
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/Assignment.Domain.pdb
+/Users/kamal/Desktop/Home/Projects/Kamal/Full Stack Task/Back-End/Assignment.Domain/obj/Debug/net8.0/ref/Assignment.Domain.dll

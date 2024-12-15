@@ -1,0 +1,6 @@
+@Assignment.API_HostAddress = https://localhost:5086
+
+GET {{Assignment.API_HostAddress}}/products/
+Accept: application/json
+
+###
