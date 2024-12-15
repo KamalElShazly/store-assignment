@@ -1,3 +1,5 @@
+## Commands used to create the project
+
 dotnet new sln -n Assignment
 dotnet new webapi --use-controllers -o Assignment.API
 dotnet new classlib -o Assignment.Application
@@ -26,3 +28,25 @@ dotnet ef migrations add Initial --project Assignment.Infrastructure --startup-p
 dotnet ef database update --project Assignment.Infrastructure --startup-project Assignment.API
 
 dotnet run --project Assignment.API --launch-profile "https"
+
+## Project Setup
+
+- Create the database in SQL Server
+- Configure ConnectionStrings in appsettings.json.
+- Install entity framework tools are installed
+
+```sh
+dotnet tool install --global dotnet-ef
+```
+
+- Run migrations
+
+```sh
+dotnet ef database update --project Assignment.Infrastructure --startup-project Assignment.API
+```
+
+- Run Assignment.API project
+
+```sh
+dotnet run --project Assignment.API --launch-profile "https"
+```
